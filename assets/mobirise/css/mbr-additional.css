@@ -1185,3 +1185,34 @@ a {
 .cid-sckyMnjxXX [class*=" socicon-"]:before {
   line-height: 55px;
 }
+.cid-sckOw1IZyw {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sckOw1IZyw .number-wrap {
+  color: #232323;
+  text-align: center;
+}
+.cid-sckOw1IZyw .number {
+  color: #232323;
+  white-space: nowrap;
+}
+.cid-sckOw1IZyw .period {
+  display: block;
+}
+.cid-sckOw1IZyw .dot {
+  display: none;
+}
+@media (max-width: 767px) {
+  .cid-sckOw1IZyw .period {
+    font-size: 0.8rem;
+  }
+}
+.cid-sckOw1IZyw .btn {
+  height: 100%;
+  margin: 0;
+}
+.cid-sckOw1IZyw .mbr-section-btn {
+  margin-bottom: 1.2rem;
+}
